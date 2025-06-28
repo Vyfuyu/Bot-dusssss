@@ -13,7 +13,7 @@ pkg update -y && pkg upgrade -y
 pkg install git python ffmpeg -y
 
 # Clone code từ GitHub
-# THAY THẾ LINK GITHUB CỦA BẠN VÀO ĐÂY
+# THAY THẾ LINK GITHUB CỦA BẠN VÀO 
 REPO_URL="https://github.com/Vyfuy/aoyama-bot-mobile.git" 
 # Lấy tên thư mục từ link repo
 REPO_NAME=$(basename "$REPO_URL" .git) 
