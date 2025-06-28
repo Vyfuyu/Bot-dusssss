@@ -1,0 +1,11 @@
+discord.py
+python-dotenv
+gTTS
+PyNacl
+psutil
+aiohttp
+yt-dlp
+googletrans==4.0.0-rc1
+Pillow
+google-generativeai
+Flask
